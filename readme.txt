@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git connection github.
 Git connection2 github.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
